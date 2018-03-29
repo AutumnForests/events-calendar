@@ -10,6 +10,10 @@ th, td {
   border: 1px solid #ccc;
 }
 
+td {
+  height: 9em;
+}
+
 .vostak {
   color: #666;
   background-color: #f2f2f2;
