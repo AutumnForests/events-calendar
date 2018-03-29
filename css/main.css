@@ -9,3 +9,66 @@ table {
 th, td {
   border: 1px solid #ccc;
 }
+
+.vostak {
+  color: #666;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.remembrance {
+  color: #991919;
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  border-radius: 8px;
+}
+
+.kosmos {
+  color: #666;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.surtsey {
+  color: #51603f;
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+}
+
+.robert {
+  color: #51603f;
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+}
+
+.india {
+  color: #666;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.aldous {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+}
+
+.doctor {
+  color: #38448e;
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+}
+
+.explorer {
+  color: #666;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
